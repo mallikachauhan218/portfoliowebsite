@@ -183,10 +183,10 @@ ul { list-style: none; }
    NAVBAR
 ══════════════════════════════════════════════ */
 .navbar {
-  position: fixed;
+  position: fixed!important;
   top: 0; left: 0; right: 0;
   z-index: 1000;
-  padding: 1.6rem 3rem;
+  padding: 1rem 3rem;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -197,7 +197,7 @@ ul { list-style: none; }
   backdrop-filter: blur(24px);
   -webkit-backdrop-filter: blur(24px);
   border-bottom: 1px solid var(--border);
-  padding: 1rem 3rem;
+  padding: 0.5rem 3rem;
 }
 
 .nav-logo {
