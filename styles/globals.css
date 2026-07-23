@@ -216,6 +216,7 @@ ul { list-style: none; }
   display: flex;
   align-items: center;
   gap: 2.5rem;
+  margin-bottom:0px !important;
 }
 .nav-links a {
   font-size: 0.875rem;
@@ -414,7 +415,7 @@ section {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  padding: 0 3rem 2rem;
+  padding: 3rem 3rem 2rem;
   z-index: 1;
 }
 .hero-content { max-width: 860px; position: relative; z-index: 2; }
