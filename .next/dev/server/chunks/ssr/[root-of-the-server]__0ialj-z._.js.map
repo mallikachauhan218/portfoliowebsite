@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 40, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/pushp/.gemini/antigravity/scratch/mallika-portfolio/pages/_document.js"],"sourcesContent":["import { Html, Head, Main, NextScript } from 'next/document';\n\nexport default function Document() {\n  return (\n    <Html lang=\"en\">\n      <Head>\n        <link rel=\"preconnect\" href=\"https://fonts.googleapis.com\" />\n        <link rel=\"preconnect\" href=\"https://fonts.gstatic.com\" crossOrigin=\"true\" />\n        <link\n          href=\"https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;900&family=Outfit:wght@300;400;500;600;700;900&display=swap\"\n          rel=\"stylesheet\"\n        />\n        <meta name=\"theme-color\" content=\"#050510\" />\n      </Head>\n      <body>\n        <Main />\n        <NextScript />\n      </body>\n    </Html>\n  );\n}\n"],"names":["Document","lang","rel","href","crossOrigin","name","content"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,qKAAC,iIAAI;QAACC,MAAK;;0BACT,qKAAC,iIAAI;;kCACH,qKAAC;wBAAKC,KAAI;wBAAaC,MAAK;;;;;;kCAC5B,qKAAC;wBAAKD,KAAI;wBAAaC,MAAK;wBAA4BC,aAAY;;;;;;kCACpE,qKAAC;wBACCD,MAAK;wBACLD,KAAI;;;;;;kCAEN,qKAAC;wBAAKG,MAAK;wBAAcC,SAAQ;;;;;;;;;;;;0BAEnC,qKAAC;;kCACC,qKAAC,iIAAI;;;;;kCACL,qKAAC,uIAAU;;;;;;;;;;;;;;;;;AAInB"}}]
+}

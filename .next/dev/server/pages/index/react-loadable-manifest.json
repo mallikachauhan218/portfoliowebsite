@@ -1,0 +1,10 @@
+{
+  "[project]/components/ThreeBackground.js [client] (ecmascript, next/dynamic entry)": {
+    "id": "[project]/components/ThreeBackground.js [client] (ecmascript, next/dynamic entry)",
+    "files": [
+      "static/chunks/node_modules_three_build_three_module_19vulgt.js",
+      "static/chunks/components_ThreeBackground_1sid92_.js",
+      "static/chunks/components_ThreeBackground_1y56nne.js"
+    ]
+  }
+}
